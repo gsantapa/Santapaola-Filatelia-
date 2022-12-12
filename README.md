@@ -27,6 +27,6 @@
     * `rgb(240,199,146)`
     
 ## **Logo**
-    <img src="/filatelia/img/Filatelia.png">
+    <img src="./img/Filatelia.png">
 
 
