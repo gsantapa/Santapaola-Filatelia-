@@ -27,4 +27,9 @@
     * `rgb(240,199,146)`
     
 ## **Logo**
-    ![Image Text](https://github.com/gsantapa/Santapaola-Filatelia-/tree/main/Img/Filatelia.png)
+
+<img src="./img/Filatelia.png">
+
+![Image text](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/Img/Filatelia.png)
+
+
