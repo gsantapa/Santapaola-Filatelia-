@@ -25,11 +25,11 @@
     * `rgb(183,217,235)`
     * `#F0C792` 
     * `rgb(240,199,146)`
-    
+---    
 ## **Logo**
 
-<img src="./img/Filatelia.png">
+<img src="Img/Filatelia.png">
 
-![Image text](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/Img/Filatelia.png)
+![logo](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/Img/Filatelia.png)
 
 
