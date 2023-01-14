@@ -14,6 +14,7 @@
      Esta dirigida a personas mayores a 15 años.
 
 ##  **Tipografia Principal:** 
+    * Roboto
     * Tahoma.
     * Verdana.
     * Arial.
@@ -23,9 +24,13 @@
     
 ## **Logo**
 
-<img src="Img/Filatelia.png">
+ 
 
 ![logo](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/Img/Filatelia.png)
 
 ## **Boceto Figma**
-<img src="figma/Boceto_figma.pdf">
+ 
+
+[Boceto](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/figma/Boceto_figma.pdf)
+
+ 
