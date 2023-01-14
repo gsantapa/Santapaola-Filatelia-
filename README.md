@@ -18,18 +18,14 @@
     * Verdana.
     * Arial.
 
-##  **Paleta de colores:** 
-    * `#4582A3` 
-    * `rgb(69,130,163)`
-    * `#B7D9EB` 
-    * `rgb(183,217,235)`
-    * `#F0C792` 
-    * `rgb(240,199,146)`
----    
+##  **Paleta de colores:**
+<img src="Img/Colores.jpg">
+    
 ## **Logo**
 
 <img src="Img/Filatelia.png">
 
 ![logo](https://github.com/gsantapa/Santapaola-Filatelia-/blob/main/Img/Filatelia.png)
 
-
+## **Boceto Figma**
+<img src="figma/Boceto_figma.pdf">
